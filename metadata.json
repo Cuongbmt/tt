@@ -1,0 +1,5 @@
+{
+  "name": "Tính tổng (Sum Calculator)",
+  "description": "Một ứng dụng web đơn giản để tính tổng của một danh sách các số. Người dùng có thể tự động thêm hoặc bớt các ô nhập số và tính toán kết quả tổng một cách nhanh chóng.",
+  "requestFramePermissions": []
+}
